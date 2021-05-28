@@ -1,0 +1,8 @@
+https://www.minijuegos.com/juego/piano-tiles-2
+X:803  Y:661
+X:904  Y:661
+X:999  Y:661
+X:1098 Y:661
+
+
+X: 759 - 1144
